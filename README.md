@@ -10,6 +10,6 @@
 Программа вычисляет общую сумму вклада, 
 которая будет на счете в конце срока вклада.
 
-![pict](https://polinka.top/uploads/posts/2023-06/1685980295_polinka-top-p-vkladi-kartinki-krasivo-32.jpg)
+![pict](https://i.pinimg.com/originals/44/b6/49/44b649d34a34bde4d160d15a0cf44b02.jpg)
 
  
